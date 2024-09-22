@@ -1,0 +1,14 @@
+.dropdownSwitcher {
+    position: absolute;
+    transition: all;
+    z-index: 60;
+    top: auto;
+    right: 0;
+    width: 350px;
+    background-color: var(--color-secondary); /* Ajusta según tus variables CSS */
+    border: 1px solid var(--color-accent); /* Ajusta según tus variables CSS */
+    padding: 0.75rem; /* 3 unidades de espacio de Tailwind */
+    border-radius: 0.375rem; /* Valor equivalente a rounded-md en Tailwind */
+    overflow: hidden;
+  }
+  

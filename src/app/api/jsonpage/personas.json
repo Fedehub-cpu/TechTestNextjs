@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "+1-555-1234",
+      "address": {
+        "street": "123 Elm St",
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62701"
+      },
+      "age": 29
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "phone": "+1-555-5678",
+      "address": {
+        "street": "456 Oak St",
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62702"
+      },
+      "age": 35
+    },
+    {
+      "id": 3,
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "phone": "+1-555-8765",
+      "address": {
+        "street": "789 Pine St",
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62703"
+      },
+      "age": 42
+    },
+    {
+      "id": 4,
+      "name": "Diana Brown",
+      "email": "diana.brown@example.com",
+      "phone": "+1-555-4321",
+      "address": {
+        "street": "101 Maple St",
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62704"
+      },
+      "age": 27
+    },
+    {
+      "id": 5,
+      "name": "Edward Wilson",
+      "email": "edward.wilson@example.com",
+      "phone": "+1-555-6789",
+      "address": {
+        "street": "202 Birch St",
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62705"
+      },
+      "age": 31
+    }
+  ]
+  

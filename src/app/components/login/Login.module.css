@@ -1,0 +1,24 @@
+
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    margin-top: 7.5rem;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    gap: .30rem;
+}
+
+.submitButton {
+    margin-top: 1rem;
+}
+
+.homeApp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
